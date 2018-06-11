@@ -81,15 +81,21 @@
       "id": 1
     },
     {
-      "name": "Seaside Surfin'",
+      "name": "Plain Ol' Pepperoni",
       "toppings": [
         {
-          "id": 6,
-          "name": "mushroom"
-        },
+          "id": 10,
+          "name": "pepperoni"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "pepperoni",
+      "toppings": [
         {
-          "id": 7,
-          "name": "olive"
+          "id": 1,
+          "name": "anchovy"
         },
         {
           "id": 2,
@@ -100,37 +106,19 @@
           "name": "basil"
         },
         {
-          "id": 1,
-          "name": "anchovy"
+          "id": 4,
+          "name": "chili"
         },
         {
           "id": 8,
           "name": "onion"
         },
         {
-          "id": 11,
-          "name": "sweetcorn"
-        },
-        {
-          "id": 9,
-          "name": "pepper"
-        },
-        {
-          "id": 5,
-          "name": "mozzarella"
+          "id": 12,
+          "name": "tomato"
         }
       ],
-      "id": 2
-    },
-    {
-      "name": "Plain Ol' Pepperoni",
-      "toppings": [
-        {
-          "id": 10,
-          "name": "pepperoni"
-        }
-      ],
-      "id": 3
+      "id": 4
     }
   ]
 }
